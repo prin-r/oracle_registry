@@ -39,3 +39,4 @@ This document only consider phrase one.
       - "Source3" => Source3::get(&key),
       - ...
       - "SourceN" => SourceN::get(&key),
+      - _ => None

@@ -6,23 +6,23 @@ This document only consider phrase one.
 
 # Dependency
 
-- OperatorCollective
-  - srml-collective
-- Manage operators actions
-  - OperatorMembership
+- primitives
+  - CurrencyId
+- support
+  - Price
+- orml_traits
+  - DataProvider
 
 # Type
 
-
+- trait DataProviderRegistry<Key, Value>
+  - get(data_provider_id: &str, key: &Key) -> Option<Value>
 
 # Trait
 
-
-# Storages
-
+- 
 
 
-# Dispatchables
 
 
 

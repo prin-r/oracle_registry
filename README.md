@@ -20,15 +20,11 @@ This document only consider phrase one.
 
 # Trait
 
-- Source1
-  - DataProvider<CurrencyId, Price>
-- Source2
-  - DataProvider<CurrencyId, Price>
-- Source3
-  - DataProvider<CurrencyId, Price>
+- Source1: DataProvider<CurrencyId, Price>
+- Source2: DataProvider<CurrencyId, Price>
+- Source3: DataProvider<CurrencyId, Price>
 - ...
-- SourceN
-  - DataProvider<CurrencyId, Price>
+- SourceN: DataProvider<CurrencyId, Price>
 
 # Methods
 

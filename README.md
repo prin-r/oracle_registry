@@ -10,9 +10,9 @@ This document only consider phrase one.
 
 # Dependency
 
-- primitives
+- module-primitives
   - CurrencyId
-- support
+- module-support
   - Price
 - orml_traits
   - DataProvider

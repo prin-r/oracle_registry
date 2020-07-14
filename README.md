@@ -5,3 +5,23 @@ An oracle registry module have only one main functionality: A hub of all oracles
 This document only consider phrase one.
 
 # Dependency
+
+
+
+# Type
+
+
+
+# Trait
+
+
+# Storages
+
+
+
+# Dispatchables
+
+
+
+
+# Methods

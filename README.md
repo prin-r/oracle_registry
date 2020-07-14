@@ -1,6 +1,10 @@
 # Overview
 
-An oracle registry module have only one main functionality: A hub of all oracles in order to enable users to connect with each oracle via oracle registry module
+The current abstraction have already enable any defi module to connect with any oracle modules that it wants to. However, it is not possible for a module switch the oracle at runtime. Therefore, hardfork is the only way to go.
+
+We would like to present the oracle registry module specification which we believe will make oracle switching possible at runtime.
+
+The oracle registry module have only one main functionality which is being the hub of all oracle modules in order to enable any defi module to connect with each oracle via oracle registry module. Therefore, oracle switching at runtime is possible.
 
 This document only consider phrase one.
 

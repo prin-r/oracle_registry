@@ -26,9 +26,7 @@ This document only consider phrase one.
   - DataProvider<CurrencyId, Price>
 - Source3
   - DataProvider<CurrencyId, Price>
-.
-.
-.
+- ...
 - SourceN
   - DataProvider<CurrencyId, Price>
 
@@ -39,7 +37,5 @@ This document only consider phrase one.
       - "Source1" => Source1::get(&key),
       - "Source2" => Source2::get(&key),
       - "Source3" => Source3::get(&key),
-      .
-      .
-      .
+      - ...
       - "SourceN" => SourceN::get(&key),

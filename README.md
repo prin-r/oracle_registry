@@ -6,7 +6,10 @@ This document only consider phrase one.
 
 # Dependency
 
-
+- OperatorCollective
+  - srml-collective
+- Manage operators actions
+  - OperatorMembership
 
 # Type
 
